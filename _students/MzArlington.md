@@ -2,7 +2,8 @@
 layout: blurb
 name: Samantha Naa A. Tetteh
 affiliation: University of Ghana
-github: @MzArlington
+github: MzArlington
 year: 2014
+---
 
 Samantha is a final year student of the University of Ghana studying Computer Science as her major and Statistics as her minor. 
